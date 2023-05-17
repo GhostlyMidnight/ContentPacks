@@ -1,5 +1,4 @@
 # ContentPacks
- Making Content Packs on TTR and Clash a little bit easier!
  Required: Panda3D with "multify.exe"
  Site: https://www.panda3d.org/download/
  ContentPack Extract:
