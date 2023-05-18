@@ -8,4 +8,3 @@
  Put phase files into "ContentPack_Maker"
 
  Pack Makers: Place Phase folder(s) in "ContentPack_Maker" folder
-
